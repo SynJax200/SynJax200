@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/SynJax200/SynJax200/main/sns-logo.png" width="120" />
 </p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=header&text=Syn%20Jaxn&fontSize=40&fontColor=58a6ff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=header&text=Syn%Jaxn&fontSize=40&fontColor=58a6ff&animation=fadeIn" />
 </p>
 <p align="center">
   <b>Security Researcher · Vulnerability Hunter · Tool Builder</b><br>
